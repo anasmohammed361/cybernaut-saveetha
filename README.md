@@ -4,7 +4,7 @@
 
 This project was developed during the hackathon conducted for Meenakshi College of Engineering by Cybernaut. The project utilizes Firebase, React, and Material Tailwind as its technology stack.
 
-> `[open in stackblitz](https://stackblitz.com/~/github.com/anasmohammed361/react-hackathon)`
+> [open in stackblitz](https://stackblitz.com/~/github.com/anasmohammed361/cybernaut-mce-hackathon)
 > 
 
 ## Description

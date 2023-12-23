@@ -2,7 +2,9 @@ import { initializeApp } from "firebase/app";
 
 import { getFirestore } from "firebase/firestore";
 
-let firebaseConfig ={}
+let firebaseConfig = {
+  
+  };
 
 export let app = initializeApp(firebaseConfig);
 
